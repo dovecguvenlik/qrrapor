@@ -1,0 +1,2 @@
+# qrrapor
+Raporlama İşlemleri
