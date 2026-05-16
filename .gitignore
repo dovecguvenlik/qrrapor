@@ -1,0 +1,5 @@
+# .gitignore dosyası oluştur
+echo __pycache__/ > .gitignore
+echo *.pyc >> .gitignore
+echo *.zip >> .gitignore
+echo venv/ >> .gitignore
